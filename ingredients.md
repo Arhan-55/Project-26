@@ -1,4 +1,3 @@
-# ingredients
 9 large eggs, room temp
 1 cup granulated sugar
 1 cup all-purpose flour *measured correctly
