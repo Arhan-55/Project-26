@@ -52,4 +52,4 @@ will still be pretty but it won’t have the same “black forest cake” feel t
 rounds of frosting around the top of the cake and place a whole cherry over each one. Refrigerate cake for at least 4 
 hours or overnight before serving for the flavors to meld.
 
-***Your Black Forest Cake is ready to serve!!***
+<span style="color:red;">Your Black Forest Cake is ready to serve!!</span>
