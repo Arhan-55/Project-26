@@ -5,11 +5,11 @@
 
 # Ingredients
 **1.**  9 large eggs, room temp
-**2.**  1 cup granulated sugar
-**3.**  1 cup all-purpose flour (measured correctly)
-**4.**  1/2 cup unsweetened cocoa powder
-**5.**  4 Tbsp (1/4 cup) unsalted butter, melted and cooled to room temp
-**6.**  1/2 tsp vanilla extract
+<br>**2.**  1 cup granulated sugar
+<br>**3.**  1 cup all-purpose flour (measured correctly)
+<br>**4.**  1/2 cup unsweetened cocoa powder
+<br>**5.**  4 Tbsp (1/4 cup) unsalted butter, melted and cooled to room temp
+<br>**6.**  1/2 tsp vanilla extract
 
 # Recipe
 **Step 1 :**  **Beat 9 large eggs with the whisk attachment for 1 min on high speed. With the mixer on, gradually add 1 cup sugar
