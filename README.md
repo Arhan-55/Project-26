@@ -4,12 +4,12 @@
 **several layers of chocolate sponge cake sandwiched with whipped cream and cherries. It was discovered by Josef Keller, A chef from Germany.**</span>
 
 # Ingredients
-**1.**  <span style="color:yellow>**9 large eggs, room temp**</span>
-<br>**2.**  <span style="color:yellow>**1 cup granulated sugar**</span>
-<br>**3.**  <span style="color:yellow>**1 cup all-purpose flour (measured correctly)**</span>
-<br>**4.**  <span style="color:yellow>**1/2 cup unsweetened cocoa powder**</span>
-<br>**5.**  <span style="color:yellow>**4 Tbsp (1/4 cup) unsalted butter, melted and cooled to room temp**</span>
-<br>**6.**  <span style="color:yellow>**1/2 tsp vanilla extract**</span>
+**1.**  **9 large eggs, room temp**
+<br>**2.**  **1 cup granulated sugar**
+<br>**3.**  **1 cup all-purpose flour (measured correctly)**
+<br>**4.**  **1/2 cup unsweetened cocoa powder**
+<br>**5.**  **4 Tbsp (1/4 cup) unsalted butter, melted and cooled to room temp**
+<br>**6.**  **1/2 tsp vanilla extract**
 
 # Recipe
 **Step 1 :**  **Beat 9 large eggs with the whisk attachment for 1 min on high speed. With the mixer on, gradually add 1 cup sugar and  continue beating on high speed a full 8 min. It will be thick and fluffy.**
