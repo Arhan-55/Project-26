@@ -4,7 +4,7 @@
 **several layers of chocolate sponge cake sandwiched with whipped cream and cherries. It was discovered by Josef Keller, A chef from Germany.**
 
 # Ingredients
-**1.**  9 large eggs, room temp
+**1.**  **9 large eggs, room temp**
 <br>**2.**  **1 cup granulated sugar**
 <br>**3.**  **1 cup all-purpose flour (measured correctly)**
 <br>**4.**  **1/2 cup unsweetened cocoa powder**
