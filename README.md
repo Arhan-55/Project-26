@@ -1,5 +1,5 @@
 # Black Forest Cake
-<span style="color:green;">**Black Forest gâteau or Black Forest cake is a chocolate sponge cake with a rich cherry filling based on the German**
+<span style="color:rgb(0,255,0);">**Black Forest gâteau or Black Forest cake is a chocolate sponge cake with a rich cherry filling based on the German**
 **dessert Schwarzwälder Kirschtorte, literally "Black Forest Cherry-torte". Typically, Black Forest gateau consists of**
 **several layers of chocolate sponge cake sandwiched with whipped cream and cherries. It was discovered by Josef Keller, A chef from Germany.**</span>
 
@@ -12,8 +12,7 @@
 <br>**6.**  **1/2 tsp vanilla extract**
 
 # Recipe
-**Step 1 :**  **Beat 9 large eggs with the whisk attachment for 1 min on high speed. With the mixer on, gradually add 1 cup sugar
-and  continue beating on high speed a full 8 min. It will be thick and fluffy.**
+**Step 1 :**  **Beat 9 large eggs with the whisk attachment for 1 min on high speed. With the mixer on, gradually add 1 cup sugar and  continue beating on high speed a full 8 min. It will be thick and fluffy.**
 
 **Step 2 :**  **Whisk together 1 cup flour and 1/2 cup cocoa powder and sift in thirds into the batter, folding with a spatula
 between each addition. Once all flour is in, continue to fold just until no streaks of flour remain, scraping the bottom 
